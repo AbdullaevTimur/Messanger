@@ -1,0 +1,131 @@
+/* Scss Document */
+/* Ubuntu @font-face kit */
+
+$UbuntuFontsPath: "~@/assets/fonts" !default;
+
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-ExtraBoldItalic.ttf');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Thin.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-ThinItalic.ttf');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Italic.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Heavy.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-BlackItalic.ttf');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-ExtraLight.ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-ExtraLightItalic.ttf');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-Black.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-MediumItalic.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-HeavyItalic.ttf');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Norms';
+    src: url('#{$UbuntuFontsPath}/TTNorms-ExtraBold.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
